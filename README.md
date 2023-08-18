@@ -1,6 +1,6 @@
 # news_app_riverpod
 
-A new Flutter project.
+A new Flutter project to master RIVERPOD.
 
 ## Getting Started
 
