@@ -5,9 +5,7 @@ A new Flutter project to master RIVERPOD.
 ## Getting Started
 
 This project is a starting point for a Flutter application using riverpod .
-
 A few resources to get you started if this is your first Flutter project:
-
 Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the repository:** `git clone https://github.com/your-username/awesome-flutter-project.git`
