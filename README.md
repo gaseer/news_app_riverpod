@@ -17,6 +17,7 @@ Follow these steps to get the project up and running on your local machine:
 - **JavaScript:** Powering the app's interactive features and logic.
 - **Firebase:** Handling backend services like authentication and storage.
 
+
 ## Contributing
 
 I'd love your contributions to make this project even more awesome! Here's how you can get involved:
