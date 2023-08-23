@@ -2,7 +2,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import '../models/news_model.dart';
 import '../services/news_service.dart';
-
 part 'news_provider.freezed.dart';
 
 @freezed
