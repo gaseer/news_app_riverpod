@@ -1,5 +1,7 @@
 
 
+
+
 class NewsModel {
   String? status;
   int? totalResults;
