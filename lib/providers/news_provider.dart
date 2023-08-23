@@ -29,6 +29,7 @@ class NewsNotifier extends StateNotifier<NewsState> {
     state = state.copyWith(newsModel: news, isLoading: false);
   }
 
+  
   loadSearchedNews(String title) async {
     state = state.copyWith(isLoading: true);
     final newsResponse = await NewsService().fetchNewsBySearching(title);
