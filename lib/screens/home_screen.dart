@@ -6,6 +6,7 @@ import '../providers/news_provider.dart';
 import '../widgets/news_card.dart';
 import '../widgets/search_field.dart';
 
+
 class HomePage extends ConsumerWidget {
   const HomePage({Key? key}) : super(key: key);
 
