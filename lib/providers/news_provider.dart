@@ -6,6 +6,7 @@ import '../services/news_service.dart';
 
 part 'news_provider.freezed.dart';
 
+
 @freezed
 class NewsState with _$NewsState {
   const factory NewsState({
