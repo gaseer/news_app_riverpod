@@ -19,7 +19,6 @@ Follow these steps to get the project up and running on your local machine:
 - **Firebase:** Handling backend services like authentication and storage.
 ## Contributing
 
-
 I'd love your contributions to make this project even more awesome! Here's how you can get involved:
 
 1. Fork the project.
