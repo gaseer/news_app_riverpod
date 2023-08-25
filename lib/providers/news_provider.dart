@@ -18,7 +18,6 @@ class NewsNotifier extends StateNotifier<NewsState> {
   NewsNotifier() : super(NewsState(newsModel: NewsModel(articles: []))) {
     loadNews();
   }
-
   loadNews() async {
     state = state.copyWith(isLoading: true);
     final newsResponse = await NewsService().fetchNews();
