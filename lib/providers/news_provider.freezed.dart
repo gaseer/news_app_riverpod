@@ -33,6 +33,7 @@ abstract class $NewsStateCopyWith<$Res> {
   $Res call({bool isLoading, NewsModel newsModel});
 }
 
+
 /// @nodoc
 class _$NewsStateCopyWithImpl<$Res, $Val extends NewsState>
     implements $NewsStateCopyWith<$Res> {
