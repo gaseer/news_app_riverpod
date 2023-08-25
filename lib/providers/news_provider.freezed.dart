@@ -64,6 +64,7 @@ class _$NewsStateCopyWithImpl<$Res, $Val extends NewsState>
 }
 
 /// @nodoc
+
 abstract class _$$_NewsStateCopyWith<$Res> implements $NewsStateCopyWith<$Res> {
   factory _$$_NewsStateCopyWith(
           _$_NewsState value, $Res Function(_$_NewsState) then) =
