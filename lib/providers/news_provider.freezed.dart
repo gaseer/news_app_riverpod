@@ -101,6 +101,7 @@ class __$$_NewsStateCopyWithImpl<$Res>
   }
 }
 
+
 /// @nodoc
 
 class _$_NewsState extends _NewsState {
