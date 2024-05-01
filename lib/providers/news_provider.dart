@@ -10,7 +10,6 @@ class NewsState with _$NewsState {
     @Default(true) bool isLoading,
     required NewsModel newsModel,
   }) = _NewsState;
-
   const NewsState._();
 }
 
