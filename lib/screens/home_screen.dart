@@ -13,7 +13,6 @@ class HomePage extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     
     NewsModel news = ref.watch(newsProvider).newsModel;
-    
     bool isLoading = ref.watch(newsProvider).isLoading;
 
     return Scaffold(
