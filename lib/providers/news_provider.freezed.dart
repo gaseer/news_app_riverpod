@@ -35,7 +35,6 @@ class _$NewsStateCopyWithImpl<$Res, $Val extends NewsState>
   final $Val _value;
   // ignore: unused_field
   final $Res Function($Val) _then;
-
   @pragma('vm:prefer-inline')
   @override
   $Res call({
