@@ -17,6 +17,7 @@ mixin _$NewsState {
       throw _privateConstructorUsedError;
 }
 
+
 /// @nodoc
 abstract class $NewsStateCopyWith<$Res> {
   factory $NewsStateCopyWith(NewsState value, $Res Function(NewsState) then) =
