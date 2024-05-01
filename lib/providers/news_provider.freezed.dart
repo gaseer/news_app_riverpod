@@ -94,7 +94,6 @@ class __$$_NewsStateCopyWithImpl<$Res>
 
 
 /// @nodoc
-
 class _$_NewsState extends _NewsState {
   const _$_NewsState({this.isLoading = true, required this.newsModel})
       : super._();
