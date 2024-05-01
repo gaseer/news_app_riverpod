@@ -5,7 +5,6 @@ part of 'news_provider.dart';
 
 // **************************************************************************
 
-
 T _$identity<T>(T value) => value;
 
 final _privateConstructorUsedError = UnsupportedError(
