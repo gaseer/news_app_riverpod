@@ -7,7 +7,6 @@ This project is a starting point for a Flutter application using riverpod .
 A few resources to get you started if this is your first Flutter project:
 Follow these steps to get the project up and running on your local machine:
 1. **Clone the repository:** `git clone https://github.com/your-username/awesome-flutter-project.git`
-2. 
 3. **Navigate to the project folder:** `cd awesome-flutter-project`
 4. **Install dependencies:** `flutter pub get`
 5. **Run the app:** `flutter run`
